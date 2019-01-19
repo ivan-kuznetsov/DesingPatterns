@@ -1,0 +1,12 @@
+{
+  "name": "composer-boilerplate",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Patterns\\": "/Patterns"
+    }
+  },
+  "scripts": {
+  }
+}
